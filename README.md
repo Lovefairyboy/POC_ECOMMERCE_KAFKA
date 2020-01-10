@@ -3,3 +3,5 @@
 
 ## Features of the proposed system
 - Visualize worldwide coronavirus cases by country
+- Visualize worldwide coronavirus cases by varient
+- Customize filters
