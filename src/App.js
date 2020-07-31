@@ -9,3 +9,6 @@ class App extends React.Component {
      super(props);
      this.myRef = React.createRef(); 
   }
+  componentDidMount(){
+     console.log(this.myRef);
+     d3.select(this.myRef.current)
