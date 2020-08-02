@@ -12,3 +12,5 @@ class App extends React.Component {
   componentDidMount(){
      console.log(this.myRef);
      d3.select(this.myRef.current)
+     .append('p')
+     .text('Hello d3');
