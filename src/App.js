@@ -16,3 +16,5 @@ class App extends React.Component {
      .text('Hello d3');
   }
   render(){
+   return (
+     <div ref={this.myRef}>
