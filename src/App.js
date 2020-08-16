@@ -19,3 +19,6 @@ class App extends React.Component {
    return (
      <div ref={this.myRef}>
      </div>
+   );
+  }
+  
