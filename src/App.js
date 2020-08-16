@@ -18,3 +18,4 @@ class App extends React.Component {
   render(){
    return (
      <div ref={this.myRef}>
+     </div>
