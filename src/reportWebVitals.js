@@ -1,1 +1,1 @@
-const reportWebVitals = on
+const reportWebVitals = onPe
