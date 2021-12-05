@@ -1,1 +1,1 @@
-const reportWebVitals =
+const reportWebVitals = on
