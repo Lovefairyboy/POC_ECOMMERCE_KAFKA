@@ -1,1 +1,1 @@
-const reportWebVi
+const reportWebVital
