@@ -1,1 +1,1 @@
-const reportWebVitals = onPe
+const reportWebVitals = onPerf
