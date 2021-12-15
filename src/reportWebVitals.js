@@ -1,1 +1,1 @@
-const reportWebVitals = onPerfEntr
+const reportWebVitals = onPerfEntry 
