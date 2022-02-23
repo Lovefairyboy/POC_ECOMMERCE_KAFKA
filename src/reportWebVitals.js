@@ -1,2 +1,2 @@
 const reportWebVitals = onPerfEntry => {
-  if (onPe
+  if (onPerf
