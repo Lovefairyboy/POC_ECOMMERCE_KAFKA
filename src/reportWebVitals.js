@@ -1,3 +1,3 @@
 const reportWebVitals = onPerfEntry => {
   if (onPerfEntry && onPerfEntry instanceof Function) {
-    import('web-vitals').th
+    import('web-vitals').then
